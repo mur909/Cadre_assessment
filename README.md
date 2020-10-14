@@ -11,11 +11,11 @@ The demo of cadre assessment system backend code implementation
            <td>others</td>
         </tr>
         <tr>
-            <td>部门信息管理模块</td>
-            <td>考核方案管理模块</td>
-            <td>职位信息管理模块</td>
-            <td>考核结果管理模块</td>
-            <td>人员信息管理模块</td>
-            <td>导入导出管理模块</td>
+            <td>部门信息</td>
+            <td>考核方案</td>
+            <td>职位信息</td>
+            <td>考核结果</td>
+            <td>人员信息</td>
+            <td>导入导出</td>
         </tr>
  </table>
